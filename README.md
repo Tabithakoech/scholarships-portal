@@ -22,7 +22,7 @@ Students can sign up and login to the system and search for scholarships on our 
 * cd quizz_board && code .
   
 ## Link to the site on GitHub Pages
-To check out the website live at: --------
+To check out the website live at: https://tabithakoech.github.io/scholarships-portal/
 ## Copyright and license information
 [MIT](https://opensource.org/licenses/MIT) <br>
 Copyright <2022> <---->
